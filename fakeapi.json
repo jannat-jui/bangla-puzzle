@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/c1KjLwn/chicken.jpg",
+      "title": "Chicken",
+      "price": 19.99,
+      "description": "Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream",
+      "type": "NEW"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/qjL2KYS/burger.jpg",
+      "title": "Burger",
+      "price": 29.99,
+      "description": "Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream",
+      "type": ""
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/chBm90N/pasta.jpg",
+      "title": "Pasta",
+      "price": 14.99,
+      "description": "Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream",
+      "type": "NEW"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/s62ybyF/fajitas.webp",
+      "title": "Fajitas",
+      "price": 39.99,
+      "description": "Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream",
+      "type": ""
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/JdL4pT7/masala.jpg",
+      "title": "Chicken Masala",
+      "price": 24.99,
+      "description": "Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream",
+      "type": ""
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/rpRT9ty/capachino.webp",
+      "title": "Capachino",
+      "price": 49.99,
+      "description": "Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream Chiecken Fajitas served with rice and beans, tortillas, guacamole, salsa and sour cream",
+      "type": "NEW"
+    }
+  ]
+  
